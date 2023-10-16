@@ -7,11 +7,9 @@ body{
 	color: white;
 }
 
-.header{ 
-        margin: 25px;
+.profile_hobby_1 {
         display: flex;
-        justify-content:space-between;
+        justify-content: center;
         align-items: center;
-        font-size; 25px;
-        color: white;
+        gap: 20px;
 }
