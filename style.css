@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body{ 
+	background: url("images/IMG_1733.jpg");
+	background-size: cover;
+	font-size: 25px;
+	color: white;
+}
