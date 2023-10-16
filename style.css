@@ -2,7 +2,7 @@
 
 body{ 
 	background: url("images/IMG_1733.jpg");
-	}
+}
 
 .jikosyoukai{
 	text-align: center;
@@ -14,4 +14,8 @@ body{
         margin: 0 auto;
 }
 
+.jikosyoukai p {
+	 margin: 10px 0;
+        line-height: 1.6;
+}
 
